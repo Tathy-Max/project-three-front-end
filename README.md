@@ -18,7 +18,7 @@ You can find the app deploy at the following link: [Deploy Here!](https://wtg-ec
 ## GitHub Repositories
 
 [Back-End Repository](https://github.com/Tathy-Max/project-three-back-end)<br/>
-[Front-End Repository](https://github.com/t-minini/project-three-front-end)
+[Front-End Repository](https://github.com/avpm90/project-three-front-end)
 
 ## Collaborator Profiles on LinkedIn
 
