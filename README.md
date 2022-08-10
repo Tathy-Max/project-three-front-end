@@ -22,9 +22,10 @@ You can find the app deploy at the following link: [Deploy Here!](https://projec
 
 ## Collaborator Profiles on LinkedIn
 
+[Angelo Martins](https://www.linkedin.com/in/angelo-martins-994ba9245)
 [Tathyanna Maximiano](https://www.linkedin.com/in/tathyanna-maximiano/)<br/>
 [Tulio Minini](https://www.linkedin.com/in/tulio-minini/)<br/>
-[Angelo Martins](https://www.linkedin.com/in/angelo-martins-994ba9245)
+
 
 ## Used Tools
 <div style="display: inline_block">
